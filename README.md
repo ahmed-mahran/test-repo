@@ -1,5 +1,5 @@
 # test-repo
 
-Testing and playing aroud with git
+Testing and playing around with git
 
 
